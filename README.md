@@ -18,7 +18,6 @@ This repository contains the **Frontend** of the application, built with React a
 InvestPro is a role-based SaaS investment system designed to handle complex financial operations, including daily returns, KYC verifications, and multi-currency deposits.
 
 ### Customer Portal
-- **Authentication & Security:** JWT-based login, Registration, Password Reset (OTP).
 - **Financial Operations:** Create deposit requests (with image proof), request withdrawals, and track transaction history.
 - **Investment Management:** Browse, subscribe to, and track high-yield investment packs.
 - **Compliance & Support:** Identity verification via KYC document uploads, built-in ticketing system, and task/message center.
