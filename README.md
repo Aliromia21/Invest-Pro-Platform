@@ -86,11 +86,6 @@ Prerequisites
 ### Installation
 1. Clone the repository:
 
-    ```
-    git clone [https://github.com/yourusername/investpro-frontend.git](https://github.com/yourusername/investpro-frontend.git)
-    cd investpro-frontend
-    ```
-
 2. Install dependencies:
 
    ```
@@ -110,7 +105,9 @@ Prerequisites
    ```
    ---
    
-### Project Structure
+###  Project Structure
+
+```text
 src/
  ├── api/            # Axios instances and API endpoint wrappers
  ├── components/     # Reusable UI components (Modals, Buttons, Inputs)
@@ -121,6 +118,7 @@ src/
  │    └── customer/  # Customer dashboard views
  ├── utils/          # Helpers (mediaUrl.ts, formatters)
  └── main.tsx        # App entry point & Context providers
+ ```
   
 ---
 
